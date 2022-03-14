@@ -1,10 +1,11 @@
 #include <stdio.h>
 
 /**
- * main - prints out the message
+ * main - prints with proper grammar,
+ * but the outcome is a piece of art,
  *
- * return: Always 0 if compiled without errors
- * */
+ * Return: 0 if exited properly, non-zero otherwise
+ */
 int main(void)
 {
 	printf("with proper grammar, but the outcome is a piece of art,\n");
